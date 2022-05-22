@@ -28,6 +28,10 @@ h5py
 ```
 
 # Keras Music Generation with LSTM
+This model contains the 3 hidden layers for LSTM, dropout 0.6 and optimizer Adam with learning rate 0.001.
+First result is related to the sample that was in the source code with 5 epochs. 
+The result is not very good so I decide to increase the number of epochs to 10. The result is called : Music
+gerenation with Keras-10-epoch.mid.
 I used the below libraries in **Google Colab:**
 
 ```
