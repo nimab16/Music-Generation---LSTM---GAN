@@ -19,8 +19,15 @@ I tried to train my model just for 20 epochs it takes 3 hours even I used
 the GPU of Colab. Also, you can use the pretrained model that was called **Weights.hdf5** and the Prediction class. The
 dataset is contain 92 classical piano music.
 
+**Requirements:**
+```
+music21
+Keras
+Tensorflow
+h5py
+```
 
-# Requirements for Keras Music Generation
+# Keras Music Generation with LSTM
 I used the below libraries in **Google Colab:**
 
 ```
