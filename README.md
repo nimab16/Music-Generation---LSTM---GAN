@@ -1,6 +1,6 @@
 # Music-Generation-LSTM-GAN
 
-use the **GAN** and **LSTM** to create new music. I used three sources to produce the
+There are three different training in this repository that use the **GAN** and **LSTM** to create new music. I used three sources to produce the
 musics. Two of them are based on the LSTM and one of them is based on GAN. The LSTM Unlike standard
 feedforward neural networks, LSTM has feedback connections. It can process not only single data points (such
 as images), but also entire sequences of data (such as speech, video or music). 
